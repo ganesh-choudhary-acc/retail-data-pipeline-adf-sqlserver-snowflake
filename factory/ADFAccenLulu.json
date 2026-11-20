@@ -1,0 +1,16 @@
+{
+	"name": "ADFAccenLulu",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e82d586f-5e4b-42df-8c51-ac4dbd9f686b",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
